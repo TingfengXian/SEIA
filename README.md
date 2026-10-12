@@ -1,3 +1,2 @@
 # SEIA
-This repository contains the official implementation of SEIA.
-The complete source code, including training and evaluation scripts, and configuration files, will be made publicly available upon acceptance of the paper.
+This is the official repository for State-Evolving Identity Adaptation (SEIA). The full implementation, including training and evaluation scripts and configuration files, will be released upon acceptance of the paper.
